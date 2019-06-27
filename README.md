@@ -9,6 +9,8 @@ Another example of our innovative minds is through the creation of Low-tech Inte
 The author Gillespie introduces us to the end-to-end principle. “The end-to-end principle essentially states that all knowledge about the specific needs of particular applications should be concentrated at the “end-points” of a network connection, that is, at the hosts that are communicating with each other; no other network components, such as routers, should need to know any of the details of application function or data structure in order to operate effectively.” (Dourish, 2015, p. 8). This shows how developed and innovative humans have gotten. The Internet has helped us grow in so many ways. Now, the Cycle will continue from to go on from there, or will the Internet defy the odds? What’s the next breakthrough?
 
 
+
+
 Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
 
 Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
